@@ -1,0 +1,14 @@
+{
+  "name": "swallow-error",
+  "version": "1.0.0",
+  "description": "swallows thrown error",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo 'noop'"
+  },
+  "author": "Olegzandr VD",
+  "license": "ISC",
+  "dependencies": {
+    "@oresoftware/json-stream-parser": "0.0.111"
+  }
+}
